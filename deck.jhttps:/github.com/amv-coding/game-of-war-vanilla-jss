@@ -1,3 +1,5 @@
+/* Constant values for the values that stay the same no matter what happens the suits clubs, spades, hearts, diamonds the number value of each card*/
+
 const SUITS = ["♠", "♣", "♥", "♦"]
 const VALUES = [
   "A",
